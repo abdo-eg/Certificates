@@ -12,6 +12,8 @@
     - introduction to Back-End development.
     - introduction to Front-End development.
     - web design for  everybody capstone.
+    - web development - challenger track.
+    -  web development - professional track.
 
 
 
@@ -26,3 +28,4 @@
 - Business
     - You Preneur (28 training hour in business).
     - Digital Marketing 101.
+    - digital marketing - challenger track
