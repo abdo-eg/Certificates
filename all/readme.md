@@ -17,8 +17,10 @@
 
 - Personal
     - learning how to learn
+    - Emotional intelligence
 
 
 
 
 - Business
+    - You Preneur (28 training hour in business)
